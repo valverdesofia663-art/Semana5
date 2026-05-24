@@ -1,0 +1,5 @@
+Las APIs ayudan a que las comunidades compartan información de forma organizada porque permiten que diferentes aplicaciones se comuniquen entre sí.
+Por ejemplo, una app de la comunidad puede enviar alertas o reportes y otra puede mostrarlos automáticamente en tiempo real.
+Esto evita duplicar información y mantiene todo actualizado en un solo sistema.
+Además, facilita que los datos se compartan de manera más segura y estructurada, sin confusión.
+Así las personas reciben información más clara, rápida y confiable, lo que mejora la participació
