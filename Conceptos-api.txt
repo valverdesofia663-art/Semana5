@@ -1,1 +1,9 @@
 punto 8
+La ruta POST /reporte sirve para enviar información al servidor.
+Generalmente se utiliza para crear o guardar nuevos datos en una base de datos.
+En este caso, podría permitir que los usuarios envíen reportes desde una aplicación.
+
+En una aplicación comunitaria, esta ruta podría servir para reportar problemas del barrio,
+como basura en las calles, daños en el alumbrado público o situaciones de inseguridad.
+También ayudaría a que la comunidad envíe solicitudes o avisos importantes.
+La información enviada podría ser revisada por administradores o líderes comunitarios.
